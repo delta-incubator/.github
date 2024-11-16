@@ -26,7 +26,10 @@ If you are interested in submitting your project to `delta-incubator`, please st
 
 ## Incubation Project Graduation
 Project can graduate to the `Delta Lake` org following similar voting procedures.
-* In general, the incubation project has been developed within `delta-incubator` for at least six (6) months
+* In general, the incubation project has been developed within `delta-incubator` for at least **six (6) months** to sort out any license issues, access controls, and find a groove working together to produce releases
+* Ensure that all developers have adopted the use of **Developer Certificate of Origin** or DCO as we have adopted this for the Delta Lake project with guidance from Linux Foundation AI & Data.
+* Ensure there are **multiple contributors** to the project as this is a good signal of a community with potential. Community is highly important since contributors can and should come and go as our interests shift over time. We strive to keep delta-io projects vibrant and continually improving. The contributor structure would ideally be more than 2 people with merge and release access for the incubating project.
+* **Trademark compliance**: one of our big shared assets is the Delta Lake trademark held by the Linux Foundation. Before elevation into delta-io, it is important that incubating projects should be correctly using the trademark for development, documentation, and releases.
 
 ## Incubation Project Archival
 We adopt a practice of marking unmaintained projects as public archived (with a notice soliciting new maintainers in the README) if there is no maintainer for the incubation project for 6 months.  We will follow the same voting procedures. 
